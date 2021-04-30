@@ -17,3 +17,5 @@ src="https://www.youtube.com/embed/MUQfKFzIOeU"
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
+[Скачати](showcase/115913/report/Record_2021_04_30_18_25_50_806.mp4 ':include')

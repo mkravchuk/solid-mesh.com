@@ -1,7 +1,7 @@
-- [Get Started](getstarted)
-- [Showcase](showcase)
-- [Contact us](contactus)
-- [NOTES](notes)
+- [Огляд](getstarted)
+- [Демонстрація](showcase)
+- [Контакти](contactus)
+- [DEBUG notes](notes)
 - **Links**
 - [![](img/github.svg)Github](https://github.com/mkravchuk/solid-mesh.com)
 - [![](img/issues2.ico)Issues](https://github.com/mkravchuk/solid-mesh.com/issues)
